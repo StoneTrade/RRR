@@ -2,6 +2,6 @@
    "properties":[
       {"id":1, "type":"string","description":"TheSouline LOGO1"},
       {"id":2, "type":"string","description":"TheSouline LOGO2"},
-      {"id":3, "type":"string","description":"TheSouline LOGO3"},
+      {"id":3, "type":"string","description":"TheSouline LOGO3"}
    ]
 }
