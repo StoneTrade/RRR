@@ -1,8 +1,19 @@
 {
-   [
+   "title":"TheSouline",
+   "name":"TheSouline",
+   "type":"object",
+   "imageUrl":"https://www.twthesouline.com/wp-content/uploads/2020/05/cropped-image-1.png",
+   "description":"TheSouline LOGO",
+   "attributes":[
       {
-      "trait_type": "Very Rare", 
-      "value": "MAX"
-      } 
-   ] 
+         "trait_type":"Creator",
+         "value":"MAX"
+      }
+   ],
+   "properties":{
+      "name":{
+         "type":"string",
+         "description":"TheSouline LOGO"
+      }
+   }
 }
